@@ -1,4 +1,4 @@
-# Mobile-Manufacturer-Data-Analysis
+# SQL_Mobile-Manufacturer-Data-Analysis
 Unveiling Insights into Cellphone Market Trends
 This repository contains a SQL case study focusing on advanced queries and analysis for a fictional database named "Cellphones Information.
 " The database consists of several dimension tables, including Dim_manufacturer, Dim_model, Dim_customer, Dim_Location, and a fact table called Fact_Transactions.
